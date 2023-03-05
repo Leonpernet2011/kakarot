@@ -1,0 +1,18 @@
+/* CSS for the first section */
+section:nth-of-type(1) {
+    background-color: #181717;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* CSS for the second section */
+  section:nth-of-type(2) {
+    background-color: #1f1b1b;
+    color: cornsilk;
+    text-align: left;
+    padding: 20px;
+  }
+
+  a {
+    color: hotpink;
+  }
